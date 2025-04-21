@@ -1,0 +1,6 @@
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.csproj.AssemblyReference.cache
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.AssemblyInfoInputs.cache
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.AssemblyInfo.cs
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.csproj.CoreCompileInputs.cache
+C:\Users\AYA\source\repos\EmployeeWebAPI__\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.Web.MvcApplicationPartsAssemblyInfo.cache
